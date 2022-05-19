@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.cloud {
+    background-image:url(./niebo.png);
+    background-size: cover;
+    height: 600px;
+    width: 100vh;
+    display: flex;  
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+#CityName {
+    text-align: center ;
+    margin: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+#WindSpeed {
+    text-align: right;
+    margin:auto
+
+    
+    
+    
+}
+
+.cloud > h4 {
+margin-left:auto;
+margin-right:auto
+}
+.tempOne {
+    font-size: 50px;
+    color: white;
+}
+.tempTwo {
+    color: red;    
+}
+.tempThree {
+    color: rgb(0, 225, 255);
+}
+    
+.pl {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    
+    
+    
+}
+.Clouds {
+   padding-left:
+
+}
+
+
+@media (max-width:768) {
+    
+}
+
